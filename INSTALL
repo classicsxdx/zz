@@ -1,0 +1,9 @@
+Building cryptune
+
+See doc/readme-qt.rst for instructions on building cryptune QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cryptune.
+
+See doc/build-*.txt for instructions on building cryptuned,
+the intended-for-services, no-graphical-interface, reference
+implementation of cryptune.
